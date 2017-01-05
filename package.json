@@ -1,0 +1,22 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": "grunt example",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbut/grunt.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Colin But",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinbut/grunt/issues"
+  },
+  "homepage": "https://github.com/colinbut/grunt#readme"
+}
