@@ -21,6 +21,7 @@
   "homepage": "https://github.com/colinbut/grunt#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
-    "grunt-contrib-jshint": "^1.1.0"
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodeunit": "^1.0.0"
   }
 }
