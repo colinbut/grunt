@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/colinbut/grunt/issues"
   },
-  "homepage": "https://github.com/colinbut/grunt#readme"
+  "homepage": "https://github.com/colinbut/grunt#readme",
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.1.0"
+  }
 }
