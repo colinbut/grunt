@@ -22,4 +22,8 @@ module.exports = function(grunt) {
   // set default Task
   grunt.registerTask('default', ['uglify']);
 
+  grunt.registerTask('logging', 'Log some stuff', function() {
+    grunt.log.write('Logging some stuff').ok();
+  });
+
 };
