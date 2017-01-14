@@ -1,5 +1,5 @@
 {
-  "name": "grunt",
+  "name": "grunt-example",
   "version": "1.0.0",
   "description": "grunt example",
   "main": "Gruntfile.js",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/colinbut/grunt#readme",
   "devDependencies": {
+    "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.1.0"
   }
 }
